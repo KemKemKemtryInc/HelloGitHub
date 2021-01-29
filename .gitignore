@@ -1,0 +1,9 @@
+﻿################################################################################
+# この .gitignore ファイルは Microsoft(R) Visual Studio によって自動的に作成されました。
+################################################################################
+
+/CCsv/UpgradeLog.htm
+/CCsv/CCsv.vcxproj.user
+/CCsv/CCsv.vcxproj.filters
+/CCsv/CCsv.vcproj.kem-kem.msato.user
+/CCsv/CCsv.vcproj
